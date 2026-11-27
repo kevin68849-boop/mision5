@@ -6,8 +6,9 @@ import Pricing from './components/Pricing'
 import Footer from './components/Footer'
 
 function App() {
+
     return (
-        <>
+        <div className="bg-light min-h-screen">
             <Navbar />
             <main>
                 <Hero />
@@ -16,7 +17,7 @@ function App() {
                 <Pricing />
             </main>
             <Footer />
-        </>
+        </div>
     )
 }
 

@@ -5,7 +5,9 @@ function Hero() {
                 <h1 className="text-3xl font-bold">
                     Your world. Your rules.
                 </h1>
-                <p>Servidores de alto rendimiento para jugar sin límites.</p>
+                <p className="text-muted">
+                    Servidores de alto rendimiento para jugar sin límites.
+                </p>
                 {/* TODO: botones de accion */}
             </div>
             {/* TODO: imagen principal */}

@@ -18,8 +18,15 @@
     --color-muted: #475569;
     --color-muted-dark: #94a3b8;
 
-    /* TODO: tipografia */
-    /* TODO: espaciado */
+    /* Tipografía */
+    --font-display: "Arial", sans-serif;
+
+    /* Espaciado */
+    --spacing-section: 4rem;
+    --spacing-gutter: 1.5rem;
+
+    /* Bordes */
+    --radius-card: 1rem;
     /* TODO: animaciones */
 }
 
